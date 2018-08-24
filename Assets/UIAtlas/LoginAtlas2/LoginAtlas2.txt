@@ -1,0 +1,28 @@
+{"frames": {
+
+"login.png":
+{
+	"frame": {"x":0,"y":0,"w":561,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":561,"h":1024},
+	"sourceSize": {"w":561,"h":1024}
+},
+"ppplogin.png":
+{
+	"frame": {"x":0,"y":0,"w":561,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":561,"h":1024},
+	"sourceSize": {"w":561,"h":1024}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "LoginAtlas2Mask.png",
+	"format": "ALPHA",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b22c2aef43a15b6a3091e1785f1b8154$"
+}
+}

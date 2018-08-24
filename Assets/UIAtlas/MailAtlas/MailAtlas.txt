@@ -1,0 +1,44 @@
+{"frames": {
+
+"AlreadyReadMark.png":
+{
+	"frame": {"x":417,"y":104,"w":71,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":80},
+	"sourceSize": {"w":71,"h":80}
+},
+"Icon.png":
+{
+	"frame": {"x":343,"y":2,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"ListPropBack.png":
+{
+	"frame": {"x":2,"y":2,"w":339,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":339,"h":146},
+	"sourceSize": {"w":339,"h":146}
+},
+"NotYetReadMark.png":
+{
+	"frame": {"x":343,"y":104,"w":72,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":80},
+	"sourceSize": {"w":72,"h":80}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "MailAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:745b5be89138c98ddc4fdaa50787971d$"
+}
+}

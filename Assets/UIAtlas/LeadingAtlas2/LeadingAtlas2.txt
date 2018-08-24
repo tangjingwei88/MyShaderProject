@@ -1,0 +1,20 @@
+{"frames": {
+
+"Bottom.png":
+{
+	"frame": {"x":0,"y":0,"w":768,"h":962},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":768,"h":962},
+	"sourceSize": {"w":768,"h":962}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "LeadingAtlas2.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9c7bb6320b0e60ac5220e8f23af1fbfd$"
+}
+}
