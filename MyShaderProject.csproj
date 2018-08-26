@@ -51,16 +51,16 @@
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-      <HintPath>D:/softwareInstall/Unity537/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+      <HintPath>D:/SoftwareInstall/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/softwareInstall/Unity537/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/SoftwareInstall/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Networking">
-      <HintPath>D:/softwareInstall/Unity537/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+      <HintPath>D:/SoftwareInstall/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
-      <HintPath>D:/softwareInstall/Unity537/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+      <HintPath>D:/SoftwareInstall/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -242,7 +242,10 @@
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+    <None Include="Assets\ShaderScripts\DissolveEffect.shader" />
+    <None Include="Assets\ShaderScripts\Fire.shader" />
     <None Include="Assets\ShaderScripts\Noise.shader" />
+    <None Include="Assets\ShaderScripts\NoiseScript.shader" />
     <None Include="Assets\UIAtlas\LeadingAtlas2\LeadingAtlas2.txt" />
     <None Include="Assets\UIAtlas\LevelAtlas\LevelAtlas.txt" />
     <None Include="Assets\UIAtlas\LoadingAtlas\LoadingAtlas.txt" />
